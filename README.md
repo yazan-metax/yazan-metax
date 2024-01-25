@@ -13,4 +13,4 @@ On GitHub, you'll find my projects that range from sophisticated software soluti
 
 📫 Connect and Collaborate
 
-Feel free to reach out for collaborations or just a chat about code, art, and everything in between. Let's create something amazing together!
+Feel free to reach out via [email](mailto:xthingx@icloud.com) for collaborations or just a chat about code, art, and everything in between. Let's create something amazing together!
