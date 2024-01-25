@@ -11,7 +11,7 @@ But I'm not just about algorithms and data structures. My passion for digital ar
 
 Feel free to reach out via [email](mailto:xthingx@icloud.com) for collaborations or just a chat about code, art, and everything in between. Let's create something amazing together!
 
-## Things I am interested about
+## Things I am interested in
 
 - c  
 - Open source :octocat:
