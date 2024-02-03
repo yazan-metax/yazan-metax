@@ -20,4 +20,4 @@ Feel free to reach out via [email](mailto:xthingx@icloud.com) for collaborations
 - books📘
 
 # languages and tools:🔥
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,c,js,bash">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,c,js,bash,p5js">
