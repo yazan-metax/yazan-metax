@@ -13,7 +13,8 @@ Feel free to reach out via [email](mailto:xthingx@icloud.com) for collaborations
 
 ## Things I am interested in
 
-- c  
+- c
+- java-script
 - Open source :octocat:
 - digital art
 - chess♟️
